@@ -4,6 +4,7 @@ with additional fact-checking based on listening to the songs.
 
 
 This is a JSON-formatted dataset of things that happen to women in songs performed by the Decemeberists.
+Note: use `--jsonArray` flag if you're going to be importing this data into `mongodb`.
 
 ## Explanation of Keys
 ### `Album`  
@@ -59,3 +60,4 @@ Since the general idea with the `code` values is that they can be added together
 * I decided that characters referenced only as 'you' should be counted as women, absent any countervailing context clues (e.g., "The Soldiering Life"). Is this too hand-wavy?
 * I tried to include all female characters referenced at all, including all the wives in "16 Military Wives" and all Margaret's fellow maidens in "The Hazards of Love 1". Should the dataset be restricted solely to 'major' characters?
 * Eventually, I should probably go back and do the same thing for male characters in the songs.
+* I'd like to plug this into [dat](https://github.com/maxogden/dat) at some point
