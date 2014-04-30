@@ -1,0 +1,832 @@
+{"album": "5 Songs",
+  "song": "Oceanside",
+  "women": [
+    {"name": "Annabelle",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "5 Songs",
+  "song": "Shiny",
+  "women": [
+    {"name": "You",
+    "fate": null,
+    "code": 0,
+    "notes": "Gypsy? Broken shins? Harassed a lot?"}
+    ],
+	"notes": null}
+{"album": "5 Songs",
+  "song": "My Mother Was A Chinese Trapeze Artist",
+  "women": [
+    {"name": "mother",
+      "fate": "Married",
+      "code": -1,
+      "notes": "Married to a spy (?), had 2 kids, lost one in a high-stakes
+      canasta game"},
+    {"name": "sister",
+      "fate": "Married",
+      "code": -1,
+      "notes": "Married to (ex?)communist, co-owns a tobacco farm"}
+      ],
+	"notes": null}
+{"album": "5 Songs",
+  "song": "Angel, Won't You Call Me?",
+  "women": [
+    {"name": "Angel",
+      "fate": null,
+      "code": 0,
+      "notes": "Crowned May Queen"}
+      ],
+	"notes": null}
+{"album": "5 Songs",
+  "song": "I Don't Mind",
+  "women": [
+    {"name": "Julie",
+      "fate": null,
+      "code": 0,
+      "notes": "Attempted suicide? Performed onstage?"},
+    {"name": "bride",
+      "fate": "Married",
+      "code": -1,
+      "notes": "Married to King George"},
+    {"name":"your mom",
+      "fate": null,
+      "code": 0,
+      "notes": "Proud of child, who then leaves and she's sad"}
+      ],
+	"notes": null}
+{"album": "5 Songs",
+  "song": "The Apology Song",
+  "women": [
+    {"name": "Madeline",
+      "fate": "Stolen",
+      "code": 1,
+      "notes": "Is a bicycle, stolen from outside the Orange Street Food Farm"}
+      ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Leslie Ann Levine",
+  "women": [
+    {
+    "name": "Leslie Ann Levine",
+    "fate": "Died",
+    "code": 2,
+    "notes": null},
+    {
+    "name": "mother",
+    "fate": "Died",
+    "code": 2,
+    "notes": "Died in childbirth"}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Here I Dreamt I Was An Architect",
+  "women": [
+    {
+    "name": "you",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "July, July!",
+  "women": [
+    {
+    "name": "you",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "A Cautionary Song",
+  "women": [
+    {"name": "your mother",
+    "fate": null,
+    "code": 0,
+    "notes": "Prostituted out to multiple sailors"}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Odialisque",
+  "women":[
+    {"name": "Odalisque",
+    "fate": "Killed",
+    "code": 12,
+    "notes": "Lyrics are unclear, but seems to be a slave or prostitute?"},
+  {"name": "baby girl",
+    "fate": null,
+    "code": 0,
+    "notes": "'Raised on pradies, peanut shells and dirt'; could be the same as
+    Odialisque"},
+  {"name": "lazy lady",
+    "fate": "Had baby girl",
+    "code": 8,
+    "notes": "Lyrics are unclear, but someone gets raped in the last paragraph"}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Cocoon",
+  "women":[
+    {"name": "you",
+    "fate": null,
+    "code": 0,
+    "notes": "Lyrics are unclear, but 'you' escapes from something, perhaps an
+    invading army of some kind?"}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Grace Cathedral Hill",
+  "women": [
+    {"name": "you",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "The Legionnaire's Lament",
+  "women":[
+    {"name": "my girl",
+    "fate": null,
+    "code": 0,
+    "notes": "Her boyfriend(?) is joins/sent away to the foreign legion"}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "Clementine",
+  "women":[
+    {"name":"you",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Castaways and Cutouts",
+  "song": "California One / Youth And Beauty Brigade",
+  "women":[
+    {"name": "Annabelle",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "Shanty For The Arethusa",
+  "women": [
+    {"name": "your daughters",
+    "fate": null,
+    "code": 0,
+    "notes": "Threatened (?) with rape and/or seduction"}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "Billy Liar",
+  "women": [
+    {"name": "a Japanese geisha",
+    "fate": null,
+    "code": 0,
+    "notes": "Decks Billy with a garland of pearls"}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "Los Angeles, I'm Yours",
+  "women": [
+    {"name": "ladies",
+    "fate": null,
+    "code": 0,
+    "notes": "Drag boys around on the weekends"}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "The Gymnast, High Above The Ground",
+  "women": [
+    {"name": "your sister",
+    "fate": null,
+    "code": 0,
+    "notes": "Is 'long'?"},
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "The Bachelor And The Bride",
+  "women": [
+    {"name": "our first daughter",
+    "fate": "Died",
+    "code": 2,
+    "notes": null},
+    {"name": "the bride",
+      "fate": "Beaten",
+      "code": 1,
+      "notes": "At least threatened with a beating; possibly also raped?"}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "Song For Myla Goldberg",
+  "women": [
+    {"name": "Myla Goldberg",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "The Soldering Life",
+  "women": [],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "Red Right Ankle",
+  "women": [
+    {"name": "you",
+    "fate": null,
+    "code": 0,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "The Chimbley Sweep",
+  "women": [
+    {"name": "the widow",
+    "fate": "Widowed",
+    "code": 1,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "I Was Meant For The Stage",
+  "women": [
+    {
+    "name": "mother",
+    "fate": null,
+    "code": 0,
+    "notes": "Maybe not proud of her child?"}
+    ],
+	"notes": null}
+{"album": "Her Majesty...",
+  "song": "As I Rise",
+  "women": [],
+	"notes": null}
+{"album": "Picaresque",
+  "song": "The Infanta",
+  "women": [
+    {"name": "The Infanta",
+    "fate": "Praised and coddled",
+    "code": -1,
+    "notes": null},
+    {"name": "the duchess",
+    "fate": null,
+    "code": 0,
+    "notes": null},
+    {"name": "the baronness",
+    "fate": "Barren",
+    "code": 1,
+    "notes": null},
+    {"name": "the prince's betrothed",
+    "fate": "engaged to the prince",
+    "code": -1,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Picaresque",
+  "song": "We Both Go Down Together",
+  "women": [
+    {"name": "you",
+    "fate": "Raped and forced into suicide",
+    "code": 12,
+    "notes": "Also raised in poverty"}
+    ],
+	"notes": null}
+{"album": "Picaresque",
+  "song": "Eli, The Barrow Boy",
+  "women": [
+    {"name": "my love",
+    "fate": "Dead",
+    "code": 2,
+    "notes": null}
+    ],
+  "notes": null}
+{"album": "Picaresque",
+  "song": "The Sporting Life",
+  "women": [
+    {"name": "my girlfriend",
+    "fate": "Arm in arm with the captain of the other team",
+    "code": -1,
+    "notes": null}
+    ],
+  "notes": null}
+{"album": "Picaresque",
+  "song": "The Bagman's Gambit",
+  "women": [
+    {"name": "you",
+    "fate": null,
+    "notes": "Is a spy. 'Purloined in Petrograd', but escaped thanks to
+    narrator's bribing captors. Never caught. Gender not specified in song, but
+    a female voice harmonizes on lines attributed to the character."}
+    ],
+  "notes": null}
+{"album": "Picaresque",
+  "song": "From My Own True Love (Lost At Sea)",
+  "women": [
+    {"name": "me",
+    "fate": "true love lost at sea",
+    "code": 1,
+    "notes": null}
+    ],
+	"notes": null}
+{"album": "Picaresque",
+  "song": "Sixteen Military Wives",
+  "women": [
+    {"name": "military wife 1",
+      "fate": "widowed",
+      "code": 1,
+      "notes": null},
+    {"name": "military wife 2",
+      "fate": "widowed",
+      "code": 1,
+      "notes": null},
+    {"name": "military wife 3",
+      "fate": "widowed",
+      "code": 1
+      "notes": null},
+    {"name": "military wife 4",
+      "fate": "widowed",
+      "code": 1,
+      "notes": null},
+    {"name": "military wife 5",
+      "fate": "widowed",
+      "code": 1
+      "notes": null},
+    {"name": "military wife 6",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 7",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 8",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 9",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 10",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 11",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 12",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 13",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 14",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 15",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "military wife 16",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    ],
+  "notes": "Some of the celebrity minds and/or academy chairs could be women,
+  but it doesn't seem likely/relevant"
+}
+{"album": "Picaresque",
+  "song": "The Engine Driver",
+  "women": [
+    {"name": "you",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null
+}
+{"album": "Picaresque",
+  "song": "On The Bus Mall",
+  "women": [
+    {"name": "you",
+      "fate": "Homeless prostitute",
+      "code": 1,
+      "notes": "Also maybe addicted to pills? Lifestyle is glamorized in the
+      song, but it doesn't sound so great?"}
+      ],
+    "notes": null}
+{"album": "Picaresque",
+  "song": "The Mariner's Revenge Song",
+  "women":[
+    {"name": "my widowed mother",
+      "fate": "Seduced, bankrupted, dead from consumption",
+      "code": 2,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "Picaresque",
+  "song": "Of Angels And Angles",
+  "women":[
+    {"name": "you",
+      "fate": null,
+      "code": 0,
+      "notes": "Possibly drowns, but that seems metaphorical"}
+    ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "The Crane Wife 3",
+  "women": [
+    {"name": "Crane Wife",
+    "fate": "Falls to earth, turns into a human",
+    "code": 1,
+    "notes": null}
+  ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "The Island",
+  "notes": [
+    {"name": "the landlord's daughter",
+    "fate": "Raped",
+    "code": 8,
+    "notes": null},
+    ],
+  "notes": "Someone dies in the final part of the song, but the gender's not
+  clear"}
+{"album": "The Crane Wife",
+  "song": "Yankee Bayonet (I Will Be Home Then)",
+  "women": [
+    {"name": "me",
+    "fate": "Pregnant & likely widowed, or at least separated from husband who is
+    in the war",
+    "code": 1,
+    "notes": null}
+    ],
+  "notes": "Two narrators, one male, one female"}
+{"album": "The Crane Wife",
+  "song": "O Valencia!"
+  "women": [
+    {"name": "Valencia",
+      "fate": "Accidentally killed",
+      "code": 4,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "The Perfect Crime #2",
+  "women": [
+    {"name": "the mogul's daughter",
+      "fate": "Kidnapped and held hogtied for ransom",
+      "code": 1,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "When The War Came",
+  "women": [],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "Shankhill Butchers",
+  "women": [],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "Summersong",
+  "women": [
+    {"name": "my girl",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "The Crane Wife 1 & 2",
+  "women": [
+    {"name": "Crane Wife",
+      "fate": "Dies from being overworked by her husband",
+      "code": 2,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Crane Wife",
+  "song": "Sons And Daughters",
+  "women": [],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Hazards Of Love 1 (The Prettiest Whistles Won't Wrestle The Thistles Undone)",
+  "women": [
+    {"name": "Margaret",
+      "fate": null,
+      "code": 0,
+      "notes": "Bored. Nothing especially bad happens to her in this particular
+      song"},
+    {"name": "lithesome maiden 1",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 2",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 3",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 4",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 5",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 6",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 7",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 8",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 9",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 10",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 11",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 12",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 13",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "lithesome maiden 14",
+      "fate": null,
+      "code": 0,
+      "notes": null},],"notes": null}
+{"album": "The Hazards Of Love",
+  "song": "A Bower Scene",
+  "women": [
+    {"name": "Margaret",
+      "fate": "Pregnant",
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "Won't Want For Love (Margaret In The Taiga)",
+  "women": [
+    {"name": "Margaret",
+      "fate": null,
+      "code": 0,
+      "notes": "Still pregnant"}
+      ],
+    "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Hazards Of Love 2 (Wager All)",
+  "women":  [],
+  "notes": "Margaret is probably the 'you' mentioned, but it's not guaranteed
+  and nothing bad happens in this song anyway."}
+{"album": "The Hazards Of Love",
+  "song": "The Queen's Approach",
+  "women": [
+    {"name": "me (the queen)",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "Isn't It A Lovely Night?",
+  "women": [],
+  "notes": "Margaret is probably one of the 'us' in this song, but it's not
+  clear and nothing bad happens anyway. There's also a baby, whose gender is
+  unspecified."}
+{"album": "The Hazards Of Love",
+  "song": "The Wanting Comes In Wave / Repaid",
+  "women": [
+    {"name": "me (the queen)",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Rake's Song",
+  "women": [
+    {"name": "her",
+      "fate": "Died in childbirth",
+      "code": 2,
+      "notes": "the rake's wife"},
+    {"name": "Charlotte",
+      "fate": "Poisoned by her father, the rake",
+      "code": 4,
+      "notes": null},
+    {"name": "Dawn",
+      "fate": "Drowned in the bath by her father, the rake",
+      "code": 4,
+      "notes": null},
+    {"name": "Myfanwy",
+      "fate": "Stillborn",
+      "code": 2,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Abduction Of Margaret",
+  "women": [
+    {"name": "Margaret",
+      "fate": "Abducted",
+      "code": 1,
+      "notes": null}
+    ],
+    "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Queen's Rebuke / The Crossing",
+  "women": [
+    {"name": "me (the queen)",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "Annan Water",
+  "women": [
+    {"name": "my true love (Margaret)",
+      "fate": "Still kidnapped",
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "Margaret In Captivity",
+  "women": [
+    {"name": "you (Margaret)",
+      "fate": "Still kidnapped--tied up",
+      "code": 0,
+      "notes": "Margaret is threatened with rape, but is likely rescued by the
+      ghosts of the rake's children/her bf before that happens"}
+    ],
+  "notes": null}
+{"album": "The Hazards Of Love",
+  "song": "The Hazards Of Love 3 (Revenge!)",
+  "women": [],
+  "notes": "Ghost babies don't really count as 'women'"}
+{"album": "The Hazards Of Love",
+  "song": "The Hazards Of Love 4 (The Drowned)",
+  "women": [
+    {"name": "Margaret",
+      "fate": "Drowned with her boyfriend",
+      "code": 2,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Don't Carry It All",
+  "women": [],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Calamity Song",
+  "women": [
+    {"name": "you",
+      "fate": "Dead",
+      "code": 1,
+      "notes": "Lyrics aren't very clear, but someone dies"},
+    {"name": "the dowager empress",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Rise To Me",
+  "women": [
+    {"name": "my darling",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Rox In The Box",
+  "women": [],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "January Hymn",
+  "women": [
+    {"name": "her",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Down By The Water",
+  "women": [
+    {"name": "Leda",
+      "fate": null,
+      "code": 0,
+      "notes": "'Leda' might not be her real name"}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "All Arise!",
+  "women": [
+    {"name": "you",
+      "fate": "Beaten by cops",
+      "code": 1,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "June Hymn",
+  "women": [
+    {"name": "you",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "This Is Why We Fight",
+  "women": [
+    {"name": "you",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "The King Is Dead",
+  "song": "Dear Avery",
+  "women": [],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "E. Watson",
+  "women": [],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "Foregone",
+  "women": [],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "Burying Davy",
+  "women": [
+    {"name": "mother",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "I 4 U & U 4 Me",
+  "women": [
+    {"name": "you",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "Row Jimmy",
+  "women": [
+    {"name": Julie,
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null}
+{"album": "Long Live The King",
+  "song": "Sonnet",
+  "women": [
+    {"name": "Lady Vanna",
+      "fate": null,
+      "code": 0,
+      "notes": null},
+    {"name": "Lagia",
+      "fate": null,
+      "code": 0,
+      "notes": null}
+    ],
+  "notes": null
+}
